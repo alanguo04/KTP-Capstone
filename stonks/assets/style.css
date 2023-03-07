@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+    margin:0;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+}
+
+.header {
+    width:100%;
+    background-color:lightblue;
+    text-align:center;
+    font-size:50px;
+    padding-top:45vh;
+    padding-bottom:50vh;
+}
+
+h1 {
+    padding-top:10px;
+    font-weight:450;
+    text-align:center;
+}
+
+h2 {
+    font-weight:375;
+}
+
+.drop2 {
+    width:45%;
+    float: left;
+}
+
+.drop5 {
+    width: 18%;
+    float:left;
+}
+
+.graph1 {
+    margin-top:30px;
+}
+
+#section {   
+    height:500;
+    background-color:lightgray
+}
+
+#result { 
+    float:top;
+    margin-top: 50px;
+    font-size:40px;
+
+}
+
+.stocks {
+    height:500;
+    background-color:white;
+}
